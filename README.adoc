@@ -1,0 +1,6 @@
+= Copee
+:stylesheet: ../../shared/adoc-styles.css
+:toc:
+:toclevels: 4
+
+A bom-pom for `min` projects.
