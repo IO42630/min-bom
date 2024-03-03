@@ -6,7 +6,7 @@
         <version>jdk17-0.0</version>
     </parent>
     <artifactId>min-bom</artifactId>
-    <version>jdk17-0.2</version>
+    <version>jdk17-0.3</version>
     <packaging>pom</packaging>
     <name>min-bom</name>
     <dependencyManagement>
@@ -16,6 +16,11 @@
                 <artifactId>junit</artifactId>
                 <version>4.13.2</version>
                 <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.checkerframework</groupId>
+                <artifactId>checker-qual</artifactId>
+                <version>3.42.0</version>
             </dependency>
             <dependency>
                 <groupId>org.projectlombok</groupId>
