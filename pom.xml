@@ -6,7 +6,7 @@
         <version>jdk17-0.0</version>
     </parent>
     <artifactId>min-bom</artifactId>
-    <version>jdk17-0.1</version>
+    <version>jdk17-0.3</version>
     <packaging>pom</packaging>
     <name>min-bom</name>
     <dependencyManagement>
@@ -35,9 +35,14 @@
                 <version>20240303</version>
             </dependency>
             <dependency>
-                <groupId>com.olexyn.min.log</groupId>
+                <groupId>com.olexyn</groupId>
+                <artifactId>min-prop</artifactId>
+                <version>2.1</version>
+            </dependency>
+            <dependency>
+                <groupId>com.olexyn</groupId>
                 <artifactId>min-log</artifactId>
-                <version>0.1.1</version>
+                <version>0.2</version>
             </dependency>
             <dependency>
                 <groupId>commons-io</groupId>
