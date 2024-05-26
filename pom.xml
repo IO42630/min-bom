@@ -6,7 +6,7 @@
         <version>jdk17-0.0</version>
     </parent>
     <artifactId>min-bom</artifactId>
-    <version>17.0.4</version>
+    <version>17.0.5</version>
     <packaging>pom</packaging>
     <dependencyManagement>
         <dependencies>
@@ -41,7 +41,7 @@
             <dependency>
                 <groupId>com.olexyn</groupId>
                 <artifactId>min-log</artifactId>
-                <version>0.3</version>
+                <version>0.4</version>
             </dependency>
             <dependency>
                 <groupId>commons-io</groupId>
