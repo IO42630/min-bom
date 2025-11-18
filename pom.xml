@@ -5,11 +5,14 @@
 	<parent>
 		<groupId>com.olexyn</groupId>
 		<artifactId>min-root</artifactId>
-		<version>25.0.0</version>
+		<version>25.0.1</version>
 	</parent>
 	<artifactId>min-bom</artifactId>
 	<version>25.0.0</version>
 	<packaging>pom</packaging>
+	<name>min-bom</name>
+	<description>BOM-POM for Java projects.</description>
+	<url>https://github.com/IO42630/min-bom</url>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
