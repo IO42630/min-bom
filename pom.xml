@@ -5,10 +5,10 @@
 	<parent>
 		<groupId>com.olexyn</groupId>
 		<artifactId>min-root</artifactId>
-		<version>21.0.0</version>
+		<version>25.0.0</version>
 	</parent>
 	<artifactId>min-bom</artifactId>
-	<version>21.1.1</version>
+	<version>25.0.0</version>
 	<packaging>pom</packaging>
 	<dependencyManagement>
 		<dependencies>
