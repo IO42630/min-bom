@@ -5,10 +5,10 @@
 	<parent>
 		<groupId>com.olexyn</groupId>
 		<artifactId>min-root</artifactId>
-		<version>25.0.1</version>
+		<version>25.0.2</version>
 	</parent>
 	<artifactId>min-bom</artifactId>
-	<version>25.0.1</version>
+	<version>25.1.0</version>
 	<packaging>pom</packaging>
 	<name>min-bom</name>
 	<description>BOM-POM for Java projects.</description>
@@ -42,26 +42,6 @@
 				<groupId>commons-io</groupId>
 				<artifactId>commons-io</artifactId>
 				<version>2.20.0</version>
-			</dependency>
-			<dependency>
-				<groupId>com.olexyn</groupId>
-				<artifactId>min-prop</artifactId>
-				<version>2.3</version>
-			</dependency>
-			<dependency>
-				<groupId>com.olexyn</groupId>
-				<artifactId>min-log</artifactId>
-				<version>0.9.0</version>
-			</dependency>
-			<dependency>
-				<groupId>com.olexyn.min</groupId>
-				<artifactId>min-lock</artifactId>
-				<version>0.2</version>
-			</dependency>
-			<dependency>
-				<groupId>com.olexyn</groupId>
-				<artifactId>min-obj</artifactId>
-				<version>0.2</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.commons</groupId>
