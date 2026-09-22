@@ -8,7 +8,7 @@
 		<version>25.0.3</version>
 	</parent>
 	<artifactId>min-bom</artifactId>
-	<version>25.1.1</version>
+	<version>25.1.2</version>
 	<packaging>pom</packaging>
 	<name>min-bom</name>
 	<description>BOM-POM for Java projects.</description>
