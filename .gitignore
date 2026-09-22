@@ -4,3 +4,5 @@
 *.env
 /.agent/
 !template*
+/.agents/skills/
+/.agents/skills-lock.json
